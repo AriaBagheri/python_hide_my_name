@@ -1,5 +1,5 @@
 ---
-title: python-axel
+title: python-hide-my-name
 ---
 
 [![image](https://img.shields.io/pypi/v/python_hide_my_name.svg)](https://pypi.python.org/pypi/python_hide_my_name)

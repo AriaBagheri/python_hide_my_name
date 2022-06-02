@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7d56e92-631d-4085-8607-9dca242c2d93" name="Changes" comment="Timeout removed!" />
+    <list default="true" id="b7d56e92-631d-4085-8607-9dca242c2d93" name="Changes" comment="Timeout removed!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +223,7 @@
       <workItem from="1653851024046" duration="8348000" />
       <workItem from="1653934041054" duration="599000" />
       <workItem from="1653975155748" duration="599000" />
-      <workItem from="1654128216878" duration="1130000" />
+      <workItem from="1654128216878" duration="1465000" />
     </task>
     <task id="LOCAL-00001" summary="fixed pypi badge">
       <created>1653760175231</created>

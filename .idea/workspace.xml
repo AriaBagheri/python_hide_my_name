@@ -4,6 +4,51 @@
     <list default="true" id="b7d56e92-631d-4085-8607-9dca242c2d93" name="Changes" comment="Timeout removed!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/authors.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/contributing.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/history.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/index.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/installation.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/usage.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/authors.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/contributing.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/history.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/installation.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/readme.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/usage.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/css/badge_only.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/doctools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/Lato-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/RobotoSlab-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/RobotoSlab-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/searchtools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/_static/underscore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/authors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/contributing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/history.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_build/html/usage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +268,7 @@
       <workItem from="1653851024046" duration="8348000" />
       <workItem from="1653934041054" duration="599000" />
       <workItem from="1653975155748" duration="599000" />
-      <workItem from="1654128216878" duration="1465000" />
+      <workItem from="1654128216878" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="fixed pypi badge">
       <created>1653760175231</created>

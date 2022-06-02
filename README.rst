@@ -1,6 +1,6 @@
-============
+===================
 python-hide-my-name
-============
+===================
 
 
 .. image:: https://img.shields.io/pypi/v/python_hide_my_name.svg
